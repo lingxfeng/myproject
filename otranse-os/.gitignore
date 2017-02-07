@@ -1,0 +1,5 @@
+*.class
+*.classpath
+*.project
+**/target/**
+/doc/素材/*.db
