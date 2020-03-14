@@ -8,7 +8,7 @@ import com.eastinno.otransos.security.domain.Permission;
 import com.eastinno.otransos.web.tools.IPageList;
 /**
  * PermissionService
- * @author ksmwly@gmail.com
+ * @author 1231@dsfsaf.com
  */
 public interface IPermissionService {
 	/**
